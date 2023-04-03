@@ -1,0 +1,23 @@
+ImmutableMultiDict([('phrase', 'printed on screen'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15|{'e', 'o', 'i'}
+ImmutableMultiDict([('phrase', 'TTTTTTTTT'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15|set()
+ImmutableMultiDict([('phrase', 'ready to start'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15|{'e', 'o', 'a'}
+ImmutableMultiDict([('phrase', 'take me'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15|{'a', 'e'}
+ImmutableMultiDict([('phrase', 'take me'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15|{'a', 'e'}
+ImmutableMultiDict([('phrase', 'print it'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36|{'i'}
+ImmutableMultiDict([('phrase', 'ready'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36|{'e', 'a'}
+ImmutableMultiDict([('phrase', 'Printing this phrase'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15|{'e', 'a', 'i'}
+ImmutableMultiDict([('phrase', 'ghjgjgj'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36|set()
+ImmutableMultiDict([('phrase', 'Take it'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36|{'e', 'a', 'i'}
+ImmutableMultiDict([('phrase', 'Take it'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36|{'e', 'a', 'i'}
+ImmutableMultiDict([('phrase', 'Корова'), ('letters', 'о')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36|{'о'}
+ImmutableMultiDict([('phrase', 'Корова'), ('letters', 'о')])|127.0.0.1|None|{'о'}
+ImmutableMultiDict([('phrase', 'Another try'), ('letters', 'aeiou')])|127.0.0.1|None|{'e', 'o'}
+ImmutableMultiDict([('phrase', 'Print'), ('letters', 'aeiou')])|127.0.0.1|{'string': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15'}|{'i'}
+ImmutableMultiDict([('phrase', 'Operate'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15|{'a', 'e'}
+ImmutableMultiDict([('phrase', 'Take it'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15|{'a', 'e', 'i'}
+ImmutableMultiDict([('phrase', 'Another try'), ('letters', 'aeiou')])|127.0.0.1|None|{'o', 'e'}
+ImmutableMultiDict([('phrase', 'another try'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|{'a', 'e', 'o'}
+ImmutableMultiDict([('phrase', 'Take me home'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15|{'e', 'a', 'o'}
+ImmutableMultiDict([('phrase', '18 марта'), ('letters', '8')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|{'8'}
+ImmutableMultiDict([('phrase', 'Making amendments to application'), ('letters', 'qxz')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15|set()
+ImmutableMultiDict([('phrase', 'Take it easy'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15|{'i', 'e', 'a'}
